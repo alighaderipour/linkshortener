@@ -5,7 +5,7 @@ import Home from '../views/Home.vue'
 
 const routes = [
   { path: '/', component: Home },
-  { path: '/links/list', component: Links },
+  { path: '/list', component: Links },
 
 
 ]
