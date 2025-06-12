@@ -1,5 +1,7 @@
 <template>
   <div>
-    <h1>Welcome To My Link Shortener</h1>
+    <router-link to="/list">
+      <button>Go to List</button>
+    </router-link>
   </div>
 </template>
